@@ -1,0 +1,9 @@
+.qty-Picker{
+    display: inline-block;
+    margin: 0 5px;
+    padding: 5px;
+    font-weight: bold;
+}
+button{
+    margin: 3px;
+}

@@ -9,3 +9,4 @@ youre using a command prompt)
 6-a)dont share or move the nodemodules folder (just trust me)
 7) npm run dev
 8) to start your server at the beggining of the class repeat step 5 and 7
+9)revisar extension auto import
