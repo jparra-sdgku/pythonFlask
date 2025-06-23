@@ -3,7 +3,7 @@
 
 function init(){
 
-console.log("App Ibstalled");
+console.log("App Installed");
 
 }
 window.onload = init; // this wait for the DOM to be fully loaded before running init
